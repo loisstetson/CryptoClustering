@@ -1,6 +1,6 @@
 # CryptoClustering
 
-Here is an overview of the steps I took to compelte this challenge: 
+Here is an overview of the steps I took to complete this challenge: 
 
 The data preparation stage entailed normalizing the data using StandardScaler from scikit-learn. A new DataFrame with the normalized data was created, preserving the "coin_id" index from the original data.
 
